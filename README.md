@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-*(Buraya projenin bir ekran görüntüsünü veya GIF'ini ekleyebilirsin. Şimdilik bu alan boş kalabilir)*
+
 
 ---
 
@@ -35,3 +35,5 @@ Follow these steps to run the project locally:
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/BugraKaanAlp/CollabTask.git](https://github.com/BugraKaanAlp/CollabTask.git)
+   
+   
